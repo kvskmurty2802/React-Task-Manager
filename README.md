@@ -1,1 +1,94 @@
-# React-Task-Manager-
+<h2 align="center">Task Manager Application</h2>
+<p align="center">
+An Efficient Task Management Application to organize and keep track of tasks effortlessly.
+</p>
+
+## Project Overview
+
+This web application allows users to manage their tasks effectively. Users can add, delete, search, and prioritize tasks with ease, and changes are saved automatically to local storage for persistent tracking.
+
+Visit the deployed page at [Task Manager Application](https://task-manager.vercel.app/) to see the live application in action.
+For the code, visit GitHub at [Task Manager Application](https://github.com/kvskmurty2802/React-Task-Manager).
+
+![Screenshot](Image.png)
+
+## Table of Contents
+
+- [Features](#Features)
+- [Installation](#Installation)
+  - [Usage](#Usage)
+- [Contributing](#Contributing)
+- [Features](#Features)
+- [Contact](#Contact)
+
+## Features
+
+### Basic Features
+- **Task Input:** Easily add tasks with titles for quick organization.
+- **Task Deletion:** Remove tasks as they are completed or no longer needed.
+- **Task Persistence:** Tasks are saved in local storage, ensuring data is retained even after a browser refresh.
+
+### Stretch Goals
+- **Task Search:** Use a search bar to quickly find specific tasks.
+- **Task Completion:** Mark tasks as completed and visually distinguish them from active tasks.
+- **Priority Setting:** Assign a priority level to tasks to manage importance.
+- **Task Sorting:** Sort tasks by criteria such as priority, completion status, or title.
+- **UI Animation:** Enhance the user interface with animations for an engaging experience.
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/kvskmurty2802/React-Task-Manager.git
+2. Navigate into the project directory:
+   ```bash
+    cd React-Task-Manager
+3. Install dependencies:
+   ```bash
+    npm install
+## Usage:
+
+1. Start the development server:
+   ```bash
+    npm start
+2. Open your browser and visit below link to view the weather page.
+   ```bash
+    http://localhost:5173
+## Contributing
+
+Contributions are welcome! Please follow these steps:
+
+1. Fork the repository.
+   
+2. Create a new branch (`git checkout -b feature/my-feature`).
+   
+3. Commit your changes (`git commit -am 'Add new feature'`).
+   
+4. Push to the branch (`git push origin feature/my-feature`).
+   
+5. Open a pull request.
+
+
+## 🔝 Top Contributed Repositories
+
+Here are some of my top contributed repositories:
+
+[TheMovieDB](https://github.com/kvskmurty2802/TheMovieDB) - [![TMDb](https://img.shields.io/badge/TMDb-Movie%20database-blue)](https://themoviedb-wine.vercel.app/)
+
+[Portfolio Page](https://github.com/kvskmurty2802/Portfolio_Page) - [![Portfolio Page](https://img.shields.io/badge/Portfolio%20Page-Portfolio%20page-red)](https://portfolio-page-nu-two.vercel.app/)
+
+[Weather Page](https://github.com/kvskmurty2802/Weather_Page) - [![Weather Page](https://img.shields.io/badge/Weather%20Page-Weather%20application-green)](https://weather-page-eight.vercel.app/)
+
+
+Feel free to explore these projects and contributions!
+
+## Contact
+
+GitHub Profile: [kvskmurty2802](http://github.com/kvskmurty2802/)
+
+Contact me via [Email](mailto:krishnamurty2802@gmail.com).
+
+
+## 💰 You can help me by Donating
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/kvskmurty2802) 
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/kvskmurty2802/) 
